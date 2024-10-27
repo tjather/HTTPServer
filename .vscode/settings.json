@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iosfwd": "cpp",
-        "in.h": "c",
-        "stdio.h": "c",
-        "socket.h": "c",
-        "types.h": "c"
-    }
-}
