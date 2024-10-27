@@ -1,5 +1,5 @@
 /*
- * tcp_server.c - A simple TCP server
+ * tcp_server.c - A simple TCP web server
  * usage: ./server <port>
  */
 
